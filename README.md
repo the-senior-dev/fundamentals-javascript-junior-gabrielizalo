@@ -1,6 +1,7 @@
 ## TSD Academy - JavaScript Junior Action Item 🚀
 
-The purpose of this exercise package is simple - to help you understand fundamental JavaScript concepts. Your goal is to make the tests pass in a TDD(Test-Driven-Development) fashion. 🎯
+The purpose of this exercise package is simple - to help you understand fundamental JavaScript concepts. Your goal is to
+make the tests pass in a TDD(Test-Driven-Development) fashion. 🎯
 
 ![theSeniorDev](/docs/mastery_cover.png)
 
@@ -16,8 +17,9 @@ At the end of the exercise all the test should pass:
 
 ---
 
-⚠️⚠️⚠️ 
-**Do not use AI tools like Copilot or ChatGPT to solve this Action Item. In most interviews, you will be asked to disabled those.**⚠️⚠️⚠️
+⚠️⚠️⚠️
+**Do not use AI tools like Copilot or ChatGPT to solve this Action Item. In most interviews, you will be asked to
+disabled those.**⚠️⚠️⚠️
 
 
 ---
@@ -25,17 +27,20 @@ At the end of the exercise all the test should pass:
 ## 01 - Primitives 🎈
 
 Understand the basic data types in JavaScript. In your terminal run:
+
 ```bash
 npm run test:watch 01_primitives
 ```
+
 The tests should fail like this:
 ![test-fail](docs/01_primitives_test_pass.png)
 
 Implement the following functions to make the tests pass:
+
 1. [getDataType](src/01_primitives/01_getDataType.js)
 2. [isNullObject](src/01_primitives/02_isNullObject.js)
 
-⚠️ Run the tests again and make sure they pass before you move on! ⚠️ 
+⚠️ Run the tests again and make sure they pass before you move on! ⚠️
 
 ---
 
@@ -48,6 +53,7 @@ Learn about the different scopes in JavaScript.
 - Block Scope
 
 Run the tests for this section:
+
 ```bash
 npm run test:watch 02_scope
 ```
@@ -63,8 +69,8 @@ Get a grasp on how closures work.
 - What are closures?
 - Why are they useful?
 
-
 Run the tests for this section:
+
 ```bash
 npm run test:watch 03_closures
 ```
@@ -82,6 +88,7 @@ Dive into the JavaScript hoisting mechanism.
 - What doesn't?
 
 Run the tests for this section:
+
 ```bash
 npm run test:watch 04_hoisting
 ```
@@ -98,6 +105,7 @@ Practice the control flow statements in JavaScript.
 - `for` loop
 
 Run the tests for this section:
+
 ```bash
 npm run test:watch 05_logic_control_flow
 ```
@@ -115,6 +123,7 @@ Learn about the characteristics of objects.
 - Object Equality
 
 Run the tests for this section:
+
 ```bash
 npm run test:watch 06_objects
 ```
@@ -131,8 +140,8 @@ Understand the different aspects of arrays.
 - Array Methods
 - Multi-dimensional Arrays
 
-
 Run the tests for this section:
+
 ```bash
 npm run test:watch 07_arrays
 ```
@@ -151,6 +160,8 @@ Make the tests pass by completing the code in [07_arrays](src/07_arrays).
 ![theSeniorDev](/docs/mastery_cover.png)
 
 ##### Getting Feedback & Help
-If you have issues with the **Action Item**, you can ask for help in the [Community](https://www.skool.com/devmastery-academy-8041).
+
+If you have issues with the **Action Item**, you can ask for help in
+the [Community](https://www.skool.com/devmastery-academy-8041).
 
 Made with 🧡 in Berlin by @TheSeniorDev
