@@ -7,6 +7,7 @@ make the tests pass in a TDD(Test-Driven-Development) fashion. 🎯
 
 ### Getting Started 🛠️
 
+0. Use node v20 running `nvm use 20`
 1. Run `npm install` to install dependencies.
 2. Run `npm test` to run the Jest tests and `npm run test:watch` to run them in `watch` mode.
 3. Make all the test pass by completing the exercises for each topic.
