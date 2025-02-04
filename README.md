@@ -5,6 +5,10 @@ make the tests pass in a TDD(Test-Driven-Development) fashion. 🎯
 
 ![theSeniorDev](/docs/mastery_cover.png)
 
+### Gabo Solution 🔥
+
+Branch: `feat/solution`
+
 ### Getting Started 🛠️
 
 0. Use node v20 running `nvm use 20`
@@ -129,7 +133,7 @@ Run the tests for this section:
 npm run test:watch 06_objects
 ```
 
-Make the tests pass by completing the code in [06_objects](src/06_objects/).
+Make the tests pass by completing the code in [06_objects](src/06_objects).
 
 ---
 
